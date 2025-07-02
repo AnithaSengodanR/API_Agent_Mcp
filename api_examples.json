@@ -1,0 +1,13 @@
+{
+  "create_acnt_actv_using_post": {
+    "request_body": {
+      "customerId": "123456",
+      "accountType": "SAVINGS",
+      "currency": "INR",
+      "initialDeposit": 1000
+    }
+  },
+  "cbpetget_account_balance_using_get": {
+    "accountReference": "101000000101814"
+     }
+}
